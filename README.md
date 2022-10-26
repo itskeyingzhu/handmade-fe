@@ -99,4 +99,4 @@
 | 黃奕翔 | 會員系統 (註冊、登入、忘記密碼) 、 聊天室 、部落格專區 、 Gmail、Google calendar API       |
 | 黃昱銘 | 註冊+登入+忘記密碼頁靜態頁面切版       |
 
-> 後端專案請參訪： https://github.com/itskeyingzhu/handmade-b
+> 後端專案請參訪： https://github.com/itskeyingzhu/handmade-be
